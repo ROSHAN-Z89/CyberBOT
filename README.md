@@ -7,7 +7,7 @@
 ## What It Is
 
 **CyberBot** is a single-page web application that wraps the **Groq API** (LLaMA 3.3 70B) inside a cyberpunk terminal UI, purpose-built for cybersecurity and IT conversations. It enforces strict topic scope — ask it about OWASP, Nmap, SQL injection, CTF tricks, privilege escalation, or Linux internals and it delivers clean, formatted answers. Ask it about anything else and it bites back.
-
+link: https://roshan-z89.github.io/CyberBOT/
 ---
 
 ## Features
